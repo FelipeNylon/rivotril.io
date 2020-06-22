@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#tela { 
+
+    width: 1080px;
+    height: 720px;
+    border: 2px solid;
+    border-color: blue;
+    
+}
+
+#corver{
+    background-color: red;
+}
+
+#verde{
+    background-color: green;
+}
+
+#azul{
+    background-color: blue;
+}
+
+#preto{
+    background-color:black;
+}
